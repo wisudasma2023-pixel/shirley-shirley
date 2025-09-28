@@ -19,7 +19,7 @@ I enjoy learning new technologies and building meaningful open-source projects.
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wisudasma2023-pixel)]
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wisudasma2023-pixel)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wisudasma2023-pixel&layout=compact&theme=tokyonight)
 
